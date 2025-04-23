@@ -42,10 +42,3 @@ Here are some certifications I’ve earned that showcase my expertise and commit
 - [Associate Data Engineer in SQL](https://www.datacamp.com/statement-of-accomplishment/track/270606c1b54ef85e3c20f6bf2a876e9ece9947f0?raw=1)
 
 
-
-### 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yuhsiuhuang/)
-
-
-
